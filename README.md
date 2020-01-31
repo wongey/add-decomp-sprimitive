@@ -37,7 +37,7 @@ definite integration of D-finite functions.](https://doi.org/10.1145/3208976.320
 
 6. S. Chen, H. Du and Z. Li. [Additive Decompositions in Primitive Extensions.](https://arxiv.org/abs/1802.02329) *Proceedings of the 2018 International Symposium on Symbolic and Algebraic Computation.* New York, USA: ACM, 135-142.
 
-7. S. Chen, M. van Hoeij, M. Kauers and C. Koutschan. [Reduction-based creative telescoping for {F}uchsian {D}-finite functions.](https://dl.acm.org/doi/10.1145/2930889.2930901) *Journal of Symbolic Computation,* 2018, 85:108-127.
+7. S. Chen, M. van Hoeij, M. Kauers and C. Koutschan. [Reduction-based creative telescoping for Fuchsian D-finite functions.](https://dl.acm.org/doi/10.1145/2930889.2930901) *Journal of Symbolic Computation,* 2018, 85:108-127.
 
 8. S. Chen, H. Huang, M. Kauers and Z. Li. [A modified Abramov-Petkovšek reduction and creative telescoping for hypergeometric terms.](https://dl.acm.org/doi/10.1145/2755996.2756648) *Proceedings of the 2015 International Symposium on Symbolic and Algebraic Computation.* New York, NY, USA: ACM, 2015: 117-124.
 

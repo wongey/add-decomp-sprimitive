@@ -20,7 +20,7 @@ Please download our package [here](https://github.com/wongey/add-decomp-sprimiti
 
 The paper is accessible from the [arXiv](https://arxiv.org/). This paper has been submitted to [ISSAC 2020](http://www.issac-conference.org/2020/index.php) and is undergoing the [review process](http://www.issac-conference.org/2019/ReviewProcess.php).
 
-The appendix to our paper can be downloaded [here] (https://github.com/wongey/add-decomp-sprimitive).
+The appendix to our paper can be downloaded [here](https://github.com/wongey/add-decomp-sprimitive).
 
 ### Links to References
 
@@ -28,7 +28,7 @@ The appendix to our paper can be downloaded [here] (https://github.com/wongey/ad
 
 2. A. Bostan, S. Chen,  F. Chyzak and Z. Li. [Complexity of creative telescoping for bivariate rational functions.](https://dl.acm.org/doi/10.1145/1837934.1837975) *Proceedings of the 2010 International Symposium on Symbolic and Algebraic Computation.* New York, NY, USA: ACM, 2010: 203-210.
 
-3. A. Bostan, S. Chen, F. Chyzak,  Z. Li and G. Xin.[Hermite reduction and creative telescoping for hyperexponential functions.](https://arxiv.org/abs/1301.5038) *Proceedings of the 2013 International Symposium on Symbolic and Algebraic Computation.* New York, NY, USA: ACM, 2013: 77-84.
+3. A. Bostan, S. Chen, F. Chyzak,  Z. Li and G. Xin. [Hermite reduction and creative telescoping for hyperexponential functions.](https://arxiv.org/abs/1301.5038) *Proceedings of the 2013 International Symposium on Symbolic and Algebraic Computation.* New York, NY, USA: ACM, 2013: 77-84.
 
 4. A. Bostan, F. Chyzak, P. Lairez and B.Salvy. [Generalized Hermite reduction, creative telescoping and
 definite integration of D-finite functions.](https://doi.org/10.1145/3208976.3208992) 2018.
@@ -37,23 +37,22 @@ definite integration of D-finite functions.](https://doi.org/10.1145/3208976.320
 
 6. S. Chen, H. Du and Z. Li. [Additive Decompositions in Primitive Extensions.](https://arxiv.org/abs/1802.02329) *Proceedings of the 2018 International Symposium on Symbolic and Algebraic Computation.* New York, USA: ACM, 135-142.
 
-7. S. Chen, M. van Hoeij, M. Kauers and C. Koutschan. [Reduction-based creative telescoping for {F}uchsian {D}-finite functions.](https://dl.acm.org/doi/10.1145/2930889.2930901) *Journal of Symbolic Computation,* 2018, 85:108 - 127.
+7. S. Chen, M. van Hoeij, M. Kauers and C. Koutschan. [Reduction-based creative telescoping for {F}uchsian {D}-finite functions.](https://dl.acm.org/doi/10.1145/2930889.2930901) *Journal of Symbolic Computation,* 2018, 85:108-127.
 
-8. S. Chen, H. Huang, M. Kauers and Z. Li. [A modified Abramov-Petkovšek reduction and creative telescoping for hypergeometric terms.](https://dl.acm.org/doi/10.1145/2755996.2756648) *Proceedings of the 2015 International Symposium on Symbolic and Algebraic Computation.*
-\newblock New York, NY, USA: ACM, 2015: 117-124.
+8. S. Chen, H. Huang, M. Kauers and Z. Li. [A modified Abramov-Petkovšek reduction and creative telescoping for hypergeometric terms.](https://dl.acm.org/doi/10.1145/2755996.2756648) *Proceedings of the 2015 International Symposium on Symbolic and Algebraic Computation.* New York, NY, USA: ACM, 2015: 117-124.
 
 9. S. Chen, M. Kauers and C. Koutschan. [Reduction-based creative telescoping for algebraic functions.](https://dl.acm.org/doi/10.1145/2930889.2930901) *Proceedings of the 2016 International Symposium on Symbolic and Algebraic Computation.* New York, NY, USA: ACM, 2016: 175-182.
 
-10. H. Du, H. Huang and Z. Li.[A q-analogue of the modified Abramov-Petkovšek reduction.](https://link.springer.com/chapter/10.1007/978-3-319-73232-9_5) *Advances in Computer Algebra.* S. Schneider and C. Zima (eds.) Springer International Publishing, 2018: 105-129.
+10. H. Du, H. Huang and Z. Li. [A q-analogue of the modified Abramov-Petkovšek reduction.](https://link.springer.com/chapter/10.1007/978-3-319-73232-9_5) *Advances in Computer Algebra.* S. Schneider and C. Zima (eds.) Springer International Publishing, 2018: 105-129.
 
 11. C. Hermite. [Sur l'intégration des fractions rationnelles.](http://www.numdam.org/item/NAM_1872_2_11__145_0/) *Ann. Sci. École Norm. Sup.(2),* 1872(1): 215-218.
 
 12. M. V. Ostrogradsky. De l'intégration des fractions rationnelles. *Bull. de la classe physico-mathématique de l'Acad. Impériale des Sciences de Saint-Pétersbourg,* 1845, 4: 145-167, 286-300.
 
-13. C. Raab. [Definite Integration in Differential Fields](http://www3.risc.jku.at/publications/download/risc_4583/PhD_CGR.pdf) PhD thesis, RISC, Johannes Kepler University, Linz, Austria, 2012.
+13. C. Raab. [Definite Integration in Differential Fields.](http://www3.risc.jku.at/publications/download/risc_4583/PhD_CGR.pdf) PhD thesis, RISC, Johannes Kepler University, Linz, Austria, 2012.
 
-14. M. Singer, S. David and B. Caviness, [An Extension of Liouville’s Theorem on Integration in Finite Terms.](https://dl.acm.org/doi/10.1145/800206.806366) *SIAM J. Comput.* 1985, 14: 966-990
+14. M. Singer, S. David and B. Caviness. [An Extension of Liouville’s Theorem on Integration in Finite Terms.](https://dl.acm.org/doi/10.1145/800206.806366) *SIAM J. Comput.* 1985, 14: 966-990.
 
-15. J. van der~Hoeven. [Constructing reductions for creative telescoping.](https://hal.archives-ouvertes.fr/hal-01435877) 2017.
+15. J. van der Hoeven. [Constructing reductions for creative telescoping.](https://hal.archives-ouvertes.fr/hal-01435877) 2017.
 
 16. O. Zariski and P. Samuel. [*Commutative Algebra I.*](https://www.springer.com/gp/book/9780387900896) Graduate Texts in Mathematics, Springer, 1975.

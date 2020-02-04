@@ -53,6 +53,6 @@ definite integration of D-finite functions.](https://doi.org/10.1145/3208976.320
 
 14. M. Singer, S. David and B. Caviness. [An extension of Liouville’s theorem on integration in finite terms.](https://dl.acm.org/doi/10.1145/800206.806366) *SIAM J. Comput.* 1985, 14: 966-990.
 
-15. J. van der Hoeven. [Constructing reductions for creative telescoping.](https://hal.archives-ouvertes.fr/hal-01435877) 2017.
+15. J. van der Hoeven. [Constructing reductions for creative telescoping.](https://link.springer.com/article/10.1007%2Fs00200-020-00413-3) *AAECC.* 2020.
 
 16. O. Zariski and P. Samuel. [*Commutative Algebra I.*](https://www.springer.com/gp/book/9780387900896) Graduate Texts in Mathematics, Springer, 1975.

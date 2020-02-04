@@ -16,7 +16,7 @@ Jing Guo: Chinese Academy of Sciences, KLMM, [JingG@amss.ac.cn](mailto:JingG@ams
 
 The package [AdditiveDecomposition.m](https://github.com/wongey/add-decomp-sprimitive) is available (Last update: ??).
 
-The notebook [AdditiveDecomposition_Examples.nb](https://github.com/wongey/add-decomp-sprimitive) contains [examples](https://github.com/wongey/add-decomp-sprimitive) that illustrates the use of package (requires that the package and example file be stored in the same directory as the notebook).
+The notebook [AdditiveDecomposition_Examples.nb](https://github.com/wongey/add-decomp-sprimitive) contains [examples](https://github.com/wongey/add-decomp-sprimitive) that illustrate the use of package (requires that the package and example file be stored in the same directory as the notebook).
 
 ### Paper
 

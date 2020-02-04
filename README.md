@@ -14,13 +14,15 @@ Jing Guo: Chinese Academy of Sciences, KLMM, [JingG@amss.ac.cn](mailto:JingG@ams
 
 ### Package Download
 
-Please download our package [here](https://github.com/wongey/add-decomp-sprimitive).
+The package [AdditiveDecomposition.m](https://github.com/wongey/add-decomp-sprimitive) is available (Last update: ??).
+
+The notebook [AdditiveDecomposition_Examples.nb](https://github.com/wongey/add-decomp-sprimitive) contains [examples](https://github.com/wongey/add-decomp-sprimitive) that illustrates the use of package (requires that the package and example file be stored in the same directory as the notebook).
 
 ### Paper
 
 The paper is accessible from the [arXiv](https://arxiv.org/). This paper has been submitted to [ISSAC 2020](http://www.issac-conference.org/2020/index.php) and is undergoing the [review process](http://www.issac-conference.org/2019/ReviewProcess.php).
 
-The appendix to our paper can be downloaded [here](https://github.com/wongey/add-decomp-sprimitive).
+The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
 
 ### Links to References
 

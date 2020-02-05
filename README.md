@@ -12,6 +12,12 @@ Jing Guo: Chinese Academy of Sciences, KLMM, [JingG@amss.ac.cn](mailto:JingG@ams
 
 [Elaine Wong](https://www.ricam.oeaw.ac.at/people/member/?firstname=Elaine&lastname=Wong), Austrian Academy of Sciences, RICAM, [elaine.wong@ricam.oeaw.ac.at](mailto:elaine.wong@ricam.oeaw.ac.at)
 
+### Paper
+
+The paper is accessible from the [arXiv](https://arxiv.org/). This paper has been submitted to [ISSAC 2020](http://www.issac-conference.org/2020/index.php) and is undergoing the [review process](http://www.issac-conference.org/2019/ReviewProcess.php).
+
+The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
+
 ### Package Download
 
 The Mathematica package [AdditiveDecomposition.m](https://wongey.github.io/add-decomp-sprimitive/AdditiveDecomposition.m) is available for download.
@@ -19,12 +25,6 @@ The Mathematica package [AdditiveDecomposition.m](https://wongey.github.io/add-d
 The Mathematica notebook [AdditiveDecomposition_Examples.nb](https://wongey.github.io/add-decomp-sprimitive) contains some examples, including [this collection](https://wongey.github.io/add-decomp-sprimitive/decomp_examples_collection1.m), that illustrate the use of package (requires that the package and example file be stored in the same directory as the notebook).
 
 For those without a Mathematica installation, we offer a [pdf version](https://wongey.github.io/add-decomp-sprimitive) of the example notebook for convenience.
-
-### Paper
-
-The paper is accessible from the [arXiv](https://arxiv.org/). This paper has been submitted to [ISSAC 2020](http://www.issac-conference.org/2020/index.php) and is undergoing the [review process](http://www.issac-conference.org/2019/ReviewProcess.php).
-
-The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
 
 ### Links to References
 

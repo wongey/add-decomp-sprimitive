@@ -47,16 +47,18 @@ definite integration of D-finite functions.](https://doi.org/10.1145/3208976.320
 
 9. S. Chen, M. Kauers and C. Koutschan. [Reduction-based creative telescoping for algebraic functions.](https://dl.acm.org/doi/10.1145/2930889.2930901) *Proceedings of the 2016 International Symposium on Symbolic and Algebraic Computation.* New York, NY, USA: ACM, 2016: 175-182.
 
-10. H. Du, H. Huang and Z. Li. [A q-analogue of the modified Abramov-Petkovšek reduction.](https://link.springer.com/chapter/10.1007/978-3-319-73232-9_5) *Advances in Computer Algebra.* S. Schneider and C. Zima (eds.) Springer International Publishing, 2018: 105-129.
+10. D. Cox, J. Little, and D. O'Shea. [*Ideals, Varieties and Algorithms.*](https://www.springer.com/gp/book/9783319167206) Fourth Edition, Springer, 2015.
 
-11. C. Hermite. [Sur l'intégration des fractions rationnelles.](http://www.numdam.org/item/NAM_1872_2_11__145_0/) *Ann. Sci. École Norm. Sup.(2),* 1872(1): 215-218.
+11. H. Du, H. Huang and Z. Li. [A q-analogue of the modified Abramov-Petkovšek reduction.](https://link.springer.com/chapter/10.1007/978-3-319-73232-9_5) *Advances in Computer Algebra.* S. Schneider and C. Zima (eds.) Springer International Publishing, 2018: 105-129.
 
-12. M. V. Ostrogradsky. De l'intégration des fractions rationnelles. *Bull. de la classe physico-mathématique de l'Acad. Impériale des Sciences de Saint-Pétersbourg,* 1845, 4: 145-167, 286-300.
+12. C. Hermite. [Sur l'intégration des fractions rationnelles.](http://www.numdam.org/item/NAM_1872_2_11__145_0/) *Ann. Sci. École Norm. Sup.(2),* 1872(1): 215-218.
 
-13. C. Raab. [Definite Integration in Differential Fields.](http://www3.risc.jku.at/publications/download/risc_4583/PhD_CGR.pdf) PhD thesis, RISC, Johannes Kepler University, Linz, Austria, 2012.
+13. M. V. Ostrogradsky. De l'intégration des fractions rationnelles. *Bull. de la classe physico-mathématique de l'Acad. Impériale des Sciences de Saint-Pétersbourg,* 1845, 4: 145-167, 286-300.
 
-14. M. Singer, S. David and B. Caviness. [An extension of Liouville’s theorem on integration in finite terms.](https://dl.acm.org/doi/10.1145/800206.806366) *SIAM J. Comput.* 1985, 14: 966-990.
+14. C. Raab. [Definite Integration in Differential Fields.](http://www3.risc.jku.at/publications/download/risc_4583/PhD_CGR.pdf) PhD thesis, RISC, Johannes Kepler University, Linz, Austria, 2012.
 
-15. J. van der Hoeven. [Constructing reductions for creative telescoping.](https://link.springer.com/article/10.1007%2Fs00200-020-00413-3) *AAECC.* 2020.
+15. M. Singer, S. David and B. Caviness. [An extension of Liouville’s theorem on integration in finite terms.](https://dl.acm.org/doi/10.1145/800206.806366) *SIAM J. Comput.* 1985, 14: 966-990.
 
-16. O. Zariski and P. Samuel. [*Commutative Algebra I.*](https://www.springer.com/gp/book/9780387900896) Graduate Texts in Mathematics, Springer, 1975.
+16. J. van der Hoeven. [Constructing reductions for creative telescoping.](https://link.springer.com/article/10.1007%2Fs00200-020-00413-3) *AAECC.* 2020.
+
+17. O. Zariski and P. Samuel. [*Commutative Algebra I.*](https://www.springer.com/gp/book/9780387900896) Graduate Texts in Mathematics, Springer, 1975.

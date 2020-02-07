@@ -8,18 +8,21 @@ If[$Notebooks,
      # <> "\[LongRightArrow] Type  ?AdditiveDecomposition for help",
      "Text", FontColor -> RGBColor[0, 0, 0], CellFrame -> 0.5,
      Background -> RGBColor[0.796887, 0.789075, 0.871107]]],
-   Print[# <> "--> Type  ?AdditiveDecomposition for help"]]&["AdditiveDecomposition is written by Hao Du and Elaine Wong, Austrian Academy of Sciences, RICAM, Version 0.0 (Feb. 5, 2020)\n"];
+   Print[# <> "--> Type  ?AdditiveDecomposition for help"]]&["AdditiveDecomposition.m is written by Hao Du and Elaine Wong, Austrian Academy of Sciences, RICAM, Version 0.0 (Feb. 5, 2020)\n"];
 
 (* Package Usage Notes *)
 AdditiveDecomposition::usage="Welcome to AdditiveDecomposition.m. This package accompanies the paper **An Additive Decomposition in S-Primitive Towers** by Hao Du, Jing Guo, Ziming Li and Elaine Wong.
 
-The main objective of this package is an implementation of the algorithm for decomposing a function in an S-primitive tower into its integrable part and a remainder that is minimal in some sense, both of which are in the same field. If the tower is also logarithmic, then we are able to determine an extension field such that the decomposition has a finer remainder. A function in an S-primitive tower is integrable in the tower if and only if the remainder is equal to zero.
+The main objective of this package is an implementation of the algorithm for decomposing a function in an S-primitive tower into its integrable part and a remainder that is minimal in some sense, 
+both of which are in the same field. If the tower is also logarithmic, then we are able to determine an extension field such that the decomposition has a finer remainder. A function in an S-primitive
+tower is integrable in the tower if and only if the remainder is equal to zero.
 
-The following commands serve the above objectives: AddDecompInField and AddDecompLogTower.
+The following commands serve the above objectives: AddDecompInField and WellGenLogTower.
 
-A common subtask in the above algorithm is Hermite reduction, and is also provided in this implementation via HermiteReduceGeneral. Please refer to the example notebook for usage examples.
+Common subtasks in the above algorithm are Hermite reduction and computing the matryoshka decomposition, and these are also provided in this implementation via HermiteReduceGeneral and
+ProperDecomposition, respectively. Please refer to the example notebook for usage examples.
 
-Some other functions that might be useful: ExtendedEuclidean, ProperDecomposition, HeadTerm, MonomialIndicator. Please refer to the example notebook for usage examples.
+Some other functions that might be useful: ExtendedEuclidean, HeadTerm, MonomialIndicator, AddDecompLogTower. Please refer to the example notebook for usage examples.
 ";
 
 

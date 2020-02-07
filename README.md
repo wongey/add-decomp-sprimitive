@@ -20,13 +20,11 @@ The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitiv
 
 ### Package Download
 
-This section will be updated soon.
+The Mathematica package [AdditiveDecomposition.m](https://wongey.github.io/add-decomp-sprimitive/AdditiveDecomposition.m) is available for download.
 
-The Mathematica package [AdditiveDecomposition.m](https://wongey.github.io/add-decomp-sprimitive) is available for download.
+The Mathematica notebook [AdditiveDecomposition_Examples.nb](https://wongey.github.io/add-decomp-sprimitive/AdditiveDecomposition_Examples.nb) contains some examples, including [this collection](https://wongey.github.io/add-decomp-sprimitive/decomp_examples_collection1.m), that illustrate the use of package (requires that the package and example file be stored in the same directory as the notebook).
 
-The Mathematica notebook [AdditiveDecomposition_Examples.nb](https://wongey.github.io/add-decomp-sprimitive) contains some examples, including [this collection](https://wongey.github.io/add-decomp-sprimitive/decomp_examples_collection1.m), that illustrate the use of package (requires that the package and example file be stored in the same directory as the notebook).
-
-For those without a Mathematica installation, we offer a [pdf version](https://wongey.github.io/add-decomp-sprimitive) of the example notebook for convenience.
+For those without a Mathematica installation, we offer a [pdf version](https://wongey.github.io/add-decomp-sprimitive/AdditiveDecomposition_Examples.pdf) of the example notebook for convenience.
 
 ### Links to References
 

@@ -14,9 +14,7 @@ Jing Guo: Chinese Academy of Sciences, KLMM, [JingG@amss.ac.cn](mailto:JingG@ams
 
 ### Paper
 
-The paper is accessible from the [arXiv](https://arxiv.org/abs/2002.02355). This paper has been submitted to [ISSAC 2020](http://www.issac-conference.org/2020/index.php) and is undergoing the [review process](http://www.issac-conference.org/2019/ReviewProcess.php).
-
-The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
+The paper is accessible from the [arXiv](https://arxiv.org/abs/2002.02355). This paper has been submitted to [ISSAC 2020](http://www.issac-conference.org/2020/index.php) and is undergoing the [review process](http://www.issac-conference.org/2019/ReviewProcess.php). The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
 
 ### Package Download
 

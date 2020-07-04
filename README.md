@@ -12,7 +12,13 @@ Jing Guo: Chinese Academy of Sciences, KLMM, [JingG@amss.ac.cn](mailto:JingG@ams
 
 ### Paper
 
-This paper has been submitted for publication (preprint on [arXiv:2002.02355](https://arxiv.org/abs/2002.02355)). The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
+<strike>This paper has been submitted for publication </strike> (preprint at [arXiv:2002.02355](https://arxiv.org/abs/2002.02355)).
+
+Edit (July 2020): This paper has been accepted to [ISSAC2020](http://www.issac-conference.org/2020/papers.php) with assigned [DOI](https://doi.org/10.1145/3373207.3404025) for the corresponding proceedings.
+
+Slides, demonstration, and video for our talk at ISSAC 2020 will be posted shortly.
+
+The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
 
 ### Package Download
 

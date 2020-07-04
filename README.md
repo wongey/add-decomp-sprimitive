@@ -4,19 +4,17 @@ Authors:
 
 [Hao	Du](https://www.ricam.oeaw.ac.at/people/member/?firstname=Hao&lastname=Du), Austrian Academy of Sciences, RICAM, [hao.du@ricam.oeaw.ac.at](mailto:duhao@ricam.oeaw.ac.at)
 
-Jing Guo: Chinese Academy of Sciences, KLMM, [JingG@amss.ac.cn](mailto:JingG@amss.ac.cn)
+Jing Guo, Chinese Academy of Sciences, KLMM, [JingG@amss.ac.cn](mailto:JingG@amss.ac.cn)
 
-[Ziming	Li](http://www.mmrc.iss.ac.cn/~zmli):	Chinese Academy of Sciences, KLMM, [zmli@mmrc.iss.ac.cn](mailto:zmli@mmrc.iss.ac.cn)
+[Ziming	Li](http://www.mmrc.iss.ac.cn/~zmli),	Chinese Academy of Sciences, KLMM, [zmli@mmrc.iss.ac.cn](mailto:zmli@mmrc.iss.ac.cn)
 
 [Elaine Wong](https://www.ricam.oeaw.ac.at/people/member/?firstname=Elaine&lastname=Wong), Austrian Academy of Sciences, RICAM, [elaine.wong@ricam.oeaw.ac.at](mailto:elaine.wong@ricam.oeaw.ac.at)
 
 ### Paper
 
-<strike>This paper has been submitted for publication </strike> (preprint at [arXiv:2002.02355](https://arxiv.org/abs/2002.02355)).
+<strike>This paper has been submitted for publication. </strike>
 
-Edit (July 2020): This paper has been accepted to [ISSAC2020](http://www.issac-conference.org/2020/papers.php) with assigned [DOI](https://doi.org/10.1145/3373207.3404025) for the corresponding proceedings.
-
-Slides, demonstration, and video for our talk at ISSAC 2020 will be posted shortly.
+Edit (July 2020): This paper has been accepted to [ISSAC2020](http://www.issac-conference.org/2020/papers.php) with assigned [DOI](https://doi.org/10.1145/3373207.3404025) for the corresponding proceedings. The preprint can be found at [arXiv:2002.02355](https://arxiv.org/abs/2002.02355). Slides, demonstration, and video for our talk at ISSAC 2020 will be posted shortly.
 
 The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
 

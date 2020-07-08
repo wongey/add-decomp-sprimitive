@@ -8,7 +8,7 @@ If[$Notebooks,
      # <> "\[LongRightArrow] Type  ?AdditiveDecomposition for help",
      "Text", FontColor -> RGBColor[0, 0, 0], CellFrame -> 0.5,
      Background -> RGBColor[0.796887, 0.789075, 0.871107]]],
-   Print[# <> "--> Type  ?AdditiveDecomposition for help"]]&["AdditiveDecomposition.m is written by Hao Du and Elaine Wong, Austrian Academy of Sciences, RICAM, Version 0.1 (May 14, 2020)\n"];
+   Print[# <> "--> Type  ?AdditiveDecomposition for help"]]&["AdditiveDecomposition.m is written by Hao Du and Elaine Wong, Austrian Academy of Sciences, RICAM, Version 0.2 (July 8, 2020)\n"];
 
 (* Package Usage Notes *)
 AdditiveDecomposition::usage="Welcome to AdditiveDecomposition.m. This package accompanies the paper **An Additive Decomposition in Logarithmic Towers and Beyond** by Hao Du, Jing Guo, Ziming Li and Elaine Wong.
@@ -22,7 +22,7 @@ The following commands serve the above objectives: AddDecompInField and WellGenL
 Common subtasks in the above algorithm are Hermite reduction and computing the matryoshka decomposition. These are also provided in this implementation via HermiteReduceGeneral and
 ProperDecomposition, respectively. Please refer to the example notebook for usage examples.
 
-Some other functions that might be useful: ExtendedEuclidean, HeadTerm, MonomialIndicator, AddDecompLogTower.
+Some other functions that might be useful: ExtendedEuclidean, HeadTerm, MonomialIndicator, AddDecompLogTower, ToGenNames.
 ";
 
 
@@ -57,6 +57,7 @@ AddDecompLogTower::usage="AddDecompLogTower[f, var, gen, der] takes a function i
  and all of the information needed to transform the old generators to the new ones in the form of a triple {new generator names, transfer matrix from old to new generators, new derivatives},";
 CheckAddDecompLogTower::usage="CheckAddDecompLogTower[f, var, gen, results] takes the results from AddDecompLogTower[f, var, gen, der] and outputs True if the decomposition is correct.";
 GenSubstitute::usage="GenSubstitute[var, gen, der] outputs a list of substitutions from the generators to its corresponding function of x.";
+ToGenNames::usage="ToGenNames[f, var, gen] takes a function in variable var and a list of generators, renames the generators to t1,t2,etc..., and outputs the same function with the new names substituted, along with the generator and derivative lists with the new names as a list {fnew, genlist, derlist}. Set f=1 if you only want to convert the generator list with variable var.";
 (* Usage Notes for Christoph's PQR *)
 MyPolynomialQuotientRemainder::usage = "MyPolynomialQuotientRemainder[p, q, x] gives a list of the quotient and remainder of p and q, treated as polynomials in x.";
 
@@ -647,7 +648,7 @@ True
 ]
 
 
-(* ::Subsection:: *)
+(* ::Subsection::Closed:: *)
 (*AddDecompLogTower*)
 
 
@@ -698,6 +699,23 @@ derinitial[[i+1;;len]]=derinitial[[i+1;;len]]//.{gen[[i]]->dersub[[i]]},
 dersub=Append[dersub,Integrate[derinitial[[len]],var]];
 Thread[gen->dersub]
 ]
+]
+
+
+(* ::Subsection::Closed:: *)
+(*ToGenNames*)
+
+
+(* This helps the user to automate converting their function to be used with AddDecompInField. *)
+(* Input: A function, the main variable, and its corresponding list of proposed generators (user choice). *)
+(* Output: The same function with the newly named generators, the generator and derivative lists with the new names. *)
+ToGenNames[fold_,var_Symbol,genloglist_List]:=Module[{derloglist,gentlist,dertlist,subst,fnewt},
+derloglist=D[genloglist,var]//Together;
+gentlist=Table[Symbol["t"<>ToString[i]],{i,Length[genloglist]}];
+subst=Thread[genloglist->gentlist];
+fnewt=fold//.subst;
+dertlist=derloglist//.subst;
+{fnewt,gentlist,dertlist}
 ]
 
 

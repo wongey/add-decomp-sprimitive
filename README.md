@@ -16,11 +16,15 @@ Jing Guo, Chinese Academy of Sciences, KLMM, [JingG@amss.ac.cn](mailto:JingG@ams
 
 Edit (July 2020): This paper has been accepted to [ISSAC2020](http://www.issac-conference.org/2020/papers.php) with assigned [DOI](https://doi.org/10.1145/3373207.3404025) for the corresponding proceedings. The preprint can be found at [arXiv:2002.02355](https://arxiv.org/abs/2002.02355). Slides, demonstration, and video for our talk at ISSAC 2020 will be posted shortly.
 
+[Static Slides](http://wongey.github.io/add-decomp-sprimitive/talkslides_noanimation.pdf)
+
+[Mathematica Demo](http://wongey.github.io/add-decomp-sprimitive/mathematicademo.pdf)
+
 The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
 
 ### Package Download
 
-The Mathematica package [AdditiveDecomposition.m](https://wongey.github.io/add-decomp-sprimitive/AdditiveDecomposition.m) is available for download.
+The Mathematica package [AdditiveDecomposition.m](https://wongey.github.io/add-decomp-sprimitive/AdditiveDecomposition.m) (Version 0.2) is available for download.
 
 The Mathematica notebook [AdditiveDecomposition_Examples.nb](https://wongey.github.io/add-decomp-sprimitive/AdditiveDecomposition_Examples.nb) contains some examples, including [this collection](https://wongey.github.io/add-decomp-sprimitive/decomp_examples_collection1.m), that illustrate the use of package (requires that the package and example file be stored in the same directory as the notebook).
 

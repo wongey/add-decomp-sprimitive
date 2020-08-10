@@ -2,7 +2,7 @@ We consider the additive decomposition problem in primitive towers and present a
 
 Authors:
 
-[Hao	Du](https://www.ricam.oeaw.ac.at/people/member/?firstname=Hao&lastname=Du), Austrian Academy of Sciences, RICAM, [hao.du@ricam.oeaw.ac.at](mailto:duhao@ricam.oeaw.ac.at)
+[Hao Du](https://www.ricam.oeaw.ac.at/people/member/?firstname=Hao&lastname=Du), Austrian Academy of Sciences, RICAM, [hao.du@ricam.oeaw.ac.at](mailto:duhao@ricam.oeaw.ac.at)
 
 Jing Guo, Chinese Academy of Sciences, KLMM, [JingG@amss.ac.cn](mailto:JingG@amss.ac.cn)
 
@@ -12,15 +12,25 @@ Jing Guo, Chinese Academy of Sciences, KLMM, [JingG@amss.ac.cn](mailto:JingG@ams
 
 ### Paper
 
-<strike>This paper has been submitted for publication. </strike>
+<strike>This paper has been submitted for publication. </strike> <br />
+<br />
 
-Edit (July 2020): This paper has been accepted to [ISSAC2020](http://www.issac-conference.org/2020/papers.php) with assigned [DOI](https://doi.org/10.1145/3373207.3404025) for the corresponding proceedings. The preprint can be found at [arXiv:2002.02355](https://arxiv.org/abs/2002.02355). Slides, demonstration, and video for our talk at ISSAC 2020 will be posted shortly.
+Edit (July 2020): This paper has been accepted to [ISSAC 2020](http://www.issac-conference.org/2020/papers.php) with assigned [DOI](https://doi.org/10.1145/3373207.3404025) for the corresponding proceedings. The preprint can be found at [arXiv:2002.02355](https://arxiv.org/abs/2002.02355). 
+
+The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
+
+### [ISSAC 2020](http://www.issac-conference.org/2020/index.php)
+
+<strike> Slides, demonstration, and video for our talk at ISSAC 2020 will be posted shortly. </strike> <br />
+<br />
+
+Edit (August 2020): 
+
+[Our Pre-Recorded Talk (pw: decomp)](https://people.ricam.oeaw.ac.at/cloud/s/KfXPaowxteTyoXx)
 
 [Static Slides](http://wongey.github.io/add-decomp-sprimitive/talkslides_noanimation.pdf)
 
-[Mathematica Demo](http://wongey.github.io/add-decomp-sprimitive/mathematicademo.pdf)
-
-The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
+[PDF Version of Mathematica Demo](http://wongey.github.io/add-decomp-sprimitive/mathematicademo.pdf)
 
 ### Package Download
 

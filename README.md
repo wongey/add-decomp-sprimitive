@@ -18,7 +18,7 @@ Edit (July 2020):
 
 - This paper has been accepted to [ISSAC 2020](http://www.issac-conference.org/2020/papers.php) with assigned [DOI](https://doi.org/10.1145/3373207.3404025) for the corresponding proceedings.
 
-- The preprint can be found at [arXiv:2002.02355](https://arxiv.org/abs/2002.02355).
+- The preprint can be found at [arXiv:2002.02355](https://arxiv.org/abs/2002.02355). Update: A more recent preprint can be found as a [RICAM Report](https://www.ricam.oeaw.ac.at/files/reports/20/rep20-07.pdf).
 
 - The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
 

@@ -2,7 +2,7 @@ We consider the additive decomposition problem in primitive towers and present a
 
 ### Authors
 
-- [Hao Du](https://www.ricam.oeaw.ac.at/people/member/?firstname=Hao&lastname=Du), Austrian Academy of Sciences, RICAM, [hao.du@ricam.oeaw.ac.at](mailto:duhao@ricam.oeaw.ac.at)
+- Hao Du, Austrian Academy of Sciences, RICAM, [hao.du@ricam.oeaw.ac.at](mailto:duhao@ricam.oeaw.ac.at)
 
 - Jing Guo, Chinese Academy of Sciences, KLMM, [JingG@amss.ac.cn](mailto:JingG@amss.ac.cn)
 
@@ -11,8 +11,6 @@ We consider the additive decomposition problem in primitive towers and present a
 - [Elaine Wong](https://www.ricam.oeaw.ac.at/people/member/?firstname=Elaine&lastname=Wong), Austrian Academy of Sciences, RICAM, [elaine.wong@ricam.oeaw.ac.at](mailto:elaine.wong@ricam.oeaw.ac.at)
 
 ### Paper
-
-<strike>This paper has been submitted for publication. </strike>
 
 Edit (July 2020):
 
@@ -23,8 +21,6 @@ Edit (July 2020):
 - The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
 
 ### [ISSAC 2020](http://www.issac-conference.org/2020/index.php)
-
-<strike> Slides, demonstration, and video for our talk at ISSAC 2020 will be posted shortly. </strike>
 
 Edit (August 2020): 
 

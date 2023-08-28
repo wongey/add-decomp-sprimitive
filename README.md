@@ -2,33 +2,35 @@ We consider the additive decomposition problem in primitive towers and present a
 
 ### Authors
 
-- Hao Du, Beijing University of Posts and Telecommunications, [duhao@amss.ac.cn](mailto:duhao@amss.ac.cn)
+- <pre>
+  Hao Du, Beijing University of Posts and Telecommunications, duhao@amss.ac.cn
+  (Previous affiliation: Johannes Kepler University, Linz, Austria)
+  </pre>
 
-- Jing Guo, Chinese Academy of Sciences, KLMM, [JingG@amss.ac.cn](mailto:JingG@amss.ac.cn)
+- <pre>
+  Jing Guo (Previous affiliation: Chinese Academy of Sciences, KLMM)
+  </pre>
 
-- [Ziming	Li](http://www.mmrc.iss.ac.cn/~zmli),	Chinese Academy of Sciences, KLMM, [zmli@mmrc.iss.ac.cn](mailto:zmli@mmrc.iss.ac.cn)
+- <pre>
+  Ziming Li, Chinese Academy of Sciences, KLMM, zmli@mmrc.iss.ac.cn, http://www.mmrc.iss.ac.cn/~zmli
+  </pre>
 
-- [Elaine Wong](https://sites.google.com/view/elainewong), Austrian Academy of Sciences, RICAM, [elaine.wong@ricam.oeaw.ac.at](mailto:elaine.wong@ricam.oeaw.ac.at)
+- <pre>
+  Elaine Wong, Oak Ridge National Laboratory, TN, USA, wongey@ornl.gov, https://wongey.com
+  (Previous affiliation: Austrian Academy of Sciences, RICAM, Linz, Austria)
+  </pre>
 
 ### Paper
 
-Edit (July 2020):
-
 - This paper has been accepted to [ISSAC 2020](http://www.issac-conference.org/2020/papers.php) with assigned [DOI](https://doi.org/10.1145/3373207.3404025) for the corresponding proceedings.
 
-- The preprint can be found at [arXiv:2002.02355](https://arxiv.org/abs/2002.02355). Update: A more recent preprint can be found as a [RICAM Report](https://www.ricam.oeaw.ac.at/files/reports/20/rep20-07.pdf).
+- The preprint can be found at [arXiv:2002.02355](https://arxiv.org/abs/2002.02355).
+  
+- A more recent preprint can be found as a [RICAM Report](https://www.ricam.oeaw.ac.at/files/reports/20/rep20-07.pdf).
 
-- The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf).
+- The appendix to our paper is [here](http://wongey.github.io/add-decomp-sprimitive/appendix.pdf). The references [here](http://wongey.github.io/add-decomp-sprimitive/ref.txt).
 
-### [ISSAC 2020](http://www.issac-conference.org/2020/index.php)
-
-Edit (August 2020): 
-
-- [Our Pre-Recorded Talk (pw: decomp)](https://people.ricam.oeaw.ac.at/cloud/s/KfXPaowxteTyoXx)
-
-- [Static Slides](http://wongey.github.io/add-decomp-sprimitive/talkslides_noanimation.pdf)
-
-- [PDF Version of Mathematica Demo](http://wongey.github.io/add-decomp-sprimitive/mathematicademo.pdf)
+- Cite our paper by using this [bib](https://wongey.com/bib/#DuGuoLiWong2020).
 
 ### Package Download
 
@@ -38,39 +40,12 @@ Edit (August 2020):
 
 - For those without a Mathematica installation, we offer a [pdf version](https://wongey.github.io/add-decomp-sprimitive/AdditiveDecomposition_Examples.pdf) of the example notebook for convenience.
 
-### Links to References
+### [ISSAC 2020](http://www.issac-conference.org/2020/index.php)
 
-1. S.A. Abramov. [Indefinite sums of rational functions.](https://dl.acm.org/doi/10.1145/220346.220386) *Proceedings of the 1995 International Symposium on Symbolic and Algebraic Computation.* New York, NY, USA: ACM, 1995: 303-308.
+- Here are the [slides](http://wongey.github.io/add-decomp-sprimitive/talkslides_noanimation.pdf) from our pre-recorded talk.
 
-2. A. Bostan, S. Chen,  F. Chyzak and Z. Li. [Complexity of creative telescoping for bivariate rational functions.](https://dl.acm.org/doi/10.1145/1837934.1837975) *Proceedings of the 2010 International Symposium on Symbolic and Algebraic Computation.* New York, NY, USA: ACM, 2010: 203-210.
+- Here is the [PDF version of Mathematica demo](http://wongey.github.io/add-decomp-sprimitive/mathematicademo.pdf) from our talk.
 
-3. A. Bostan, S. Chen, F. Chyzak,  Z. Li and G. Xin. [Hermite reduction and creative telescoping for hyperexponential functions.](https://arxiv.org/abs/1301.5038) *Proceedings of the 2013 International Symposium on Symbolic and Algebraic Computation.* New York, NY, USA: ACM, 2013: 77-84.
+### Followup Work
 
-4. A. Bostan, F. Chyzak, P. Lairez and B.Salvy. [Generalized Hermite reduction, creative telescoping and
-definite integration of D-finite functions.](https://doi.org/10.1145/3208976.3208992) *Proceedings of the 2018 International Symposium on Symbolic and Algebraic Computation.* New York, NY, USA: ACM, 2018: 95-102.
-
-5. M. Bronstein. [*Symbolic Integration I: transcendental functions.*](https://www.springer.com/gp/book/9783662033869) Berlin: Springer-Verlag, 2005.
-
-6. S. Chen, H. Du and Z. Li. [Additive decompositions in primitive extensions.](https://arxiv.org/abs/1802.02329) *Proceedings of the 2018 International Symposium on Symbolic and Algebraic Computation.* New York, USA: ACM, 135-142.
-
-7. S. Chen, M. van Hoeij, M. Kauers and C. Koutschan. [Reduction-based creative telescoping for Fuchsian D-finite functions.](https://dl.acm.org/doi/10.1145/2930889.2930901) *Journal of Symbolic Computation,* 2018, 85:108-127.
-
-8. S. Chen, H. Huang, M. Kauers and Z. Li. [A modified Abramov-Petkovšek reduction and creative telescoping for hypergeometric terms.](https://dl.acm.org/doi/10.1145/2755996.2756648) *Proceedings of the 2015 International Symposium on Symbolic and Algebraic Computation.* New York, NY, USA: ACM, 2015: 117-124.
-
-9. S. Chen, M. Kauers and C. Koutschan. [Reduction-based creative telescoping for algebraic functions.](https://dl.acm.org/doi/10.1145/2930889.2930901) *Proceedings of the 2016 International Symposium on Symbolic and Algebraic Computation.* New York, NY, USA: ACM, 2016: 175-182.
-
-10. D. Cox, J. Little, and D. O'Shea. [*Ideals, Varieties and Algorithms.*](https://www.springer.com/gp/book/9783319167206) Fourth Edition, Springer, 2015.
-
-11. H. Du, H. Huang and Z. Li. [A q-analogue of the modified Abramov-Petkovšek reduction.](https://link.springer.com/chapter/10.1007/978-3-319-73232-9_5) *Advances in Computer Algebra.* S. Schneider and C. Zima (eds.) Springer International Publishing, 2018: 105-129.
-
-12. C. Hermite. [Sur l'intégration des fractions rationnelles.](http://www.numdam.org/item/NAM_1872_2_11__145_0/) *Ann. Sci. École Norm. Sup.(2),* 1872(1): 215-218.
-
-13. M. V. Ostrogradsky. De l'intégration des fractions rationnelles. *Bull. de la classe physico-mathématique de l'Acad. Impériale des Sciences de Saint-Pétersbourg,* 1845, 4: 145-167, 286-300.
-
-14. C. Raab. [Definite Integration in Differential Fields.](http://www3.risc.jku.at/publications/download/risc_4583/PhD_CGR.pdf) PhD thesis, RISC, Johannes Kepler University, Linz, Austria, 2012.
-
-15. M. Singer, S. David and B. Caviness. [An extension of Liouville’s theorem on integration in finite terms.](https://dl.acm.org/doi/10.1145/800206.806366) *SIAM J. Comput.* 1985, 14: 966-990.
-
-16. J. van der Hoeven. [Constructing reductions for creative telescoping.](https://link.springer.com/article/10.1007%2Fs00200-020-00413-3) *AAECC.* 2020.
-
-17. O. Zariski and P. Samuel. [*Commutative Algebra I.*](https://www.springer.com/gp/book/9780387900896) Graduate Texts in Mathematics, Springer, 1975.
+- Check out [this paper](https://doi.org/10.1145/3597066.3597078) from [ISSAC 2023](https://www.issac-conference.org/2023/index.php).

@@ -2,27 +2,19 @@ We consider the additive decomposition problem in primitive towers and present a
 
 ### Authors
 
-- <pre>
-  Hao Du, Beijing University of Posts and Telecommunications, Beijing, China
-  Contact: duhao@amss.ac.cn
-  (Previous: Johannes Kepler University, Linz, Austria)
-  </pre>
+- Hao Du, Beijing University of Posts and Telecommunications
+  - Contact: [duhao@amss.ac.cn](mailto:duhao@amss.ac.cn)
+  - Previously at: Johannes Kepler University, Linz, Austria
 
-- <pre>
-  Jing Guo
-  (Previous: Chinese Academy of Sciences, KLMM)
-  </pre>
+- Jing Guo
+  - Previously at: Chinese Academy of Sciences, KLMM
 
-- <pre>
-  Ziming Li, Chinese Academy of Sciences, KLMM, Beijing, China
-  Contact: zmli@mmrc.iss.ac.cn, http://www.mmrc.iss.ac.cn/~zmli
-  </pre>
+- [Ziming Li](http://www.mmrc.iss.ac.cn/~zmli), Chinese Academy of Sciences, KLMM
+  - Contact: zmli@mmrc.iss.ac.cn
 
-- <pre>
-  Elaine Wong, Oak Ridge National Laboratory, TN, USA
-  Contact: wongey@ornl.gov, https://wongey.com
-  (Previous: Austrian Academy of Sciences, RICAM, Linz, Austria)
-  </pre>
+- [Elaine Wong](https://wongey.com), Oak Ridge National Laboratory, USA
+  - Contact: wongey@ornl.gov
+  - Previously at: Austrian Academy of Sciences, RICAM
 
 ### Paper
 
